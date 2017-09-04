@@ -1,5 +1,5 @@
 {
-    "name": "jadb/cakephp-monolog",
+    "name": "pdedkov/cakephp-monolog",
     "description": "CakePHP Monolog Plugin",
     "version": "2.0.0",
     "type": "cakephp-plugin",
@@ -22,7 +22,7 @@
         "source": "https://github.com/jadb/cakephp-monolog"
     },
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=7.0",
         "monolog/monolog": "2.*",
         "composer/installers": "*"
     }
